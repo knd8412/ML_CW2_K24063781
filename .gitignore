@@ -1,0 +1,6 @@
+.venv/
+data/
+embeddings.npy
+test_embeddings.npy
+__pycache__/
+*.pyc
